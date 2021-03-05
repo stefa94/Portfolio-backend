@@ -1,9 +1,9 @@
 [
     {
         "name": "Stefano",
-        "profession": "",
-        "photo": "",
-        "about_me": "Soy un entisiasta de la tecnologia, amo el desarrollo de aplicaciones y me encanta aprender algo nuevo todos los días",
+        "profession": "ninguna por ahora",
+        "photo": "https://randomuser.me/api/portraits/men/85.jpg",
+        "about_me": "Soy un entusiasta de la tecnologia, amo el desarrollo de aplicaciones y me encanta aprender algo nuevo todos los días",
         "skills":[
             "Javascript",
             "NodeJs",
