@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Stefano",
+        "profession": "",
+        "photo": "",
+        "about_me": "Soy un entisiasta de la tecnologia, amo el desarrollo de aplicaciones y me encanta aprender algo nuevo todos los días",
+        "skills":[
+            "Javascript",
+            "NodeJs",
+            "ReactJs",
+            "HTML",
+            "CSS",
+            "MongoDB"
+        ]
+    }
+]
