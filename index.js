@@ -11,6 +11,10 @@ const port = process.env.PORT || 3000;
 const about = require('./JSON/About.json');
 const portfolio = require('./JSON/Portfolio.json');
 
+app.get('/', (req, res) =>{
+    res.send("funciona");
+})
+
 app.get('/about', (req, res) =>{
     res.json(about);
 })
